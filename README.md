@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Hey, I'm Siddhesh Kharade</strong></h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="margin-top: -40px;"/>
 
 ### 👨‍💻 About Me:
 - 🔭 **Currently Working As:** Power BI Developer  
