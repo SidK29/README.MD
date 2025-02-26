@@ -4,7 +4,7 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure"/>
+  <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
 </p>
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif" width="300px"/>
@@ -29,7 +29,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/>
