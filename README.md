@@ -1,9 +1,5 @@
 <h1 align="center"><strong>Hey, I'm Siddhesh Kharade</strong></h1>
 
-<p align="center">
-<a href="https://wakatime.com/badge/github/SidK29/SidK29"><img src="https://wakatime.com/badge/github/SidK29/SidK29.svg?style=for-the-badge" alt="Wakatime" /></a>&nbsp;
-</p>
-
 <br/>
 <br/>
 
