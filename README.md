@@ -21,9 +21,8 @@
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/azure-devops.png" alt="Azure ADO" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-privileged-access-management-solution-for-managing-privileged-passwords-logo-color-tal-revivo.png" alt="PAM" width="40" height="40"/>
 </p>
 
 ---
