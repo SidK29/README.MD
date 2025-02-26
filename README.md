@@ -22,7 +22,6 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
 </p>
 
@@ -31,6 +30,5 @@
 <p align="left">
 <a href="https://github.com/SidK29">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SidK29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SidK29&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
