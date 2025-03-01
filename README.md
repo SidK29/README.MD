@@ -7,7 +7,7 @@
 - 🌱 **Learning:** Microsoft Fabric, Advanced Power BI Management  
 - 👯 **Looking To Collaborate On:** Data Engineering & Analytics Projects  
 - 💬 **Ask Me About:** Power BI, SQL, Data Engineering  
-- 📫 **Contact Me:** (mailto:kharadesiddhesh96@gmail.com)  
+- 📫 **Contact Me:** [Email me](mailto:kharadesiddhesh96@gmail.com)  
 - ⚡ **Fun Fact:** I love trekking, photography, and video editing  
 
 ---
